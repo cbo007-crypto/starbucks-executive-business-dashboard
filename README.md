@@ -1,5 +1,4 @@
 
-Executive Excel dashboard analyzing Starbucks’ FY2022–FY2025 financial performance.
 # Starbucks Executive Business Dashboard
 
 ## Project Overview
